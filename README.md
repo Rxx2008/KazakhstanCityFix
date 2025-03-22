@@ -1,4 +1,11 @@
 # Kazakhstan City Fix
+
+
+This file is a test reupload by origin author of this file, PLEASE ALWAYS RESPECT original file found ONLY on truckymods.io
+
+
+
+
 Adjusts city name sizes and positions, adds secondary names, fixes cities' names, fixes empty depots
 
 
